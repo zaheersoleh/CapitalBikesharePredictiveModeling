@@ -12,6 +12,11 @@ This project focuses on exploring relationships among selected weather features 
 2. **Predictive Modeling:**
     - Build a series of linear regression models with increasing numbers of features.
     - Evaluate changes in training and test Mean Squared Errors (MSEs) with additional features.
+    - Linear regression
+    - Ridge regression
+    - LASSO
+    - Elastic Net
+    - KNN regressor
     
 3. **Model Selection:**
     - Determine the best linear regression models for predicting pu_ct and do_ct.
